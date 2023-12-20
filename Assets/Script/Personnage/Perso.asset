@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d6558e8879d2b84da5ee08320ba6cd0, type: 3}
+  m_Name: Perso
+  m_EditorClassIdentifier: Assembly-CSharp::SOPerso
+  _vie: 90
+  _UIJoueur: {fileID: 8328485830346922699, guid: 371dcb103a855a147ab5f202fb280a55,
+    type: 3}
