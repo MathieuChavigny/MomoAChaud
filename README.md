@@ -1,0 +1,1 @@
+Ce jeu est mon premier jeu développer en 3D, c’est un jeu à génération procédurale. Donc, à chaque fois que l’on y joue il sera légèrement différent. Ce projet à été réaliser avec Unity 3D et coder en C#.
